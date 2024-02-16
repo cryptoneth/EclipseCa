@@ -9,6 +9,7 @@ sudo apt -qy update
 sudo apt -qy upgrade
 
 sudo apt -qy install curl
+
 sudo apt -qy install git
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
