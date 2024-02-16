@@ -19,9 +19,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 
 -----------------------------------------------------
 
-nvm install –lts
+nvm install --lts
 
-node –version
+node --version
 
 چک کن ورژن بالای 20 باشه
 
