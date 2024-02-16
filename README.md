@@ -58,7 +58,9 @@ source "$HOME/.cargo/env"
 -----------------------------------------------------
 
 solana --version
+
 rustc --version
+
 cargo --version
 
 چک کن ورژن هاشونو هر سه باید نصب شده باشه
