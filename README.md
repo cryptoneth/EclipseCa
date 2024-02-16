@@ -228,4 +228,3 @@ https://docs.google.com/forms/u/0/d/e/1FAIpQLSfJQCFBKHpiy2HVw9lTjCj7k0BqNKnP6G1c
 
 
 تمام
-![image](https://github.com/cryptoneth/EclipseCa/assets/149672650/57674280-4ae5-4e2d-987d-8f79cae33321)
